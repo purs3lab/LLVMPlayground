@@ -1,4 +1,4 @@
-TARGETS=simple0 simple1 simple2 simple3 simple4 simple5 simple6 simple7 simple8 simple9
+TARGETS=calc simple0 simple1 simple2 simple3 simple4 simple5 simple6 simple7 simple8 simple9
 
 all: ${TARGETS}
 
